@@ -1,6 +1,6 @@
 # KabadiConnect 🌏♻️
 
-> **Smart India Hackathon 2024** | Problem Statement: E-Waste Management for Informal Collectors
+> **Smart India Hackathon 2026** | Problem Statement: E-Waste Management for Informal Collectors
 
 An offline-first, low-literacy, vernacular Android app connecting informal e-waste scrap collectors to authorized recyclers in India.
 
